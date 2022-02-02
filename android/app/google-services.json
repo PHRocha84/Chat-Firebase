@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564491835942",
+    "project_id": "chatfutter-8a058",
+    "storage_bucket": "chatfutter-8a058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564491835942:android:7376c0fd035c672fa824e7",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564491835942-v74n143qm8ofqn6r8u9g1pc664mvpf33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoszlxVPOOk0wZtqfPrZKMCFaywz2xxIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564491835942-v74n143qm8ofqn6r8u9g1pc664mvpf33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
